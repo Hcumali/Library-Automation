@@ -1,0 +1,6 @@
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entity\bin\Release\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entity\bin\Release\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entity\obj\Release\KutuphaneOtomasyonu.Entity.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entity\obj\Release\KutuphaneOtomasyonu.Entity.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entity\obj\Release\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.Entity\obj\Release\KutuphaneOtomasyonu.Entity.pdb

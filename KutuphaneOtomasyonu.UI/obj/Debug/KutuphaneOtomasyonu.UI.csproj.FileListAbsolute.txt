@@ -1,0 +1,135 @@
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.Anasayfa.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapEkleSilGuncelle.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapEkrani.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapIade.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapOdunc.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapOduncIade.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapTakipEkrani.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KullaniciEkrani.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.OgrenciKitapProfilEkrani.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.SecimEkrani.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.ZedGraph.resources
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.GenerateResource.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.dll.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.dll.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.dll.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.CopyComplete
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ZedGraph.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ZedGraph.xml
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ZedGraph.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.dll.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.dll.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ZedGraph.xml
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.dll.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.Anasayfa.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapEkleSilGuncelle.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapEkrani.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapIade.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapOdunc.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapOduncIade.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapTakipEkrani.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KullaniciEkrani.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.OgrenciKitapProfilEkrani.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.SecimEkrani.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.ZedGraph.resources
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.GenerateResource.cache
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.CopyComplete
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.exe.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ZedGraph.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.BLL.dll.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.Entity.dll.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ZedGraph.xml
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\KutuphaneOtomasyonu.DAL.dll.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.Anasayfa.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapEkleSilGuncelle.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapEkrani.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapIade.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapOdunc.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapOduncIade.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KitapTakipEkrani.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.KullaniciEkrani.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.OgrenciKitapProfilEkrani.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.SecimEkrani.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.ZedGraph.resources
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.GenerateResource.cache
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.UI.csproj.CopyComplete
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.UI\obj\Debug\KutuphaneOtomasyonu.pdb

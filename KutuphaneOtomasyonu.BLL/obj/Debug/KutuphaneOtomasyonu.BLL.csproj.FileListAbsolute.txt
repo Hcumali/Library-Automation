@@ -1,0 +1,42 @@
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.dll.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.dll.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.dll.config
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csproj.CopyComplete
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.dll.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.dll.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.dll.config
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csproj.CopyComplete
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\182113013__Gorsel_Final\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.dll.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.DAL.dll.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Debug\KutuphaneOtomasyonu.Entity.dll.config
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.csproj.CopyComplete
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\182113013__GorselProgramlama_Final_Ödevi\Proje Kaynak Kodları\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Debug\KutuphaneOtomasyonu.BLL.pdb

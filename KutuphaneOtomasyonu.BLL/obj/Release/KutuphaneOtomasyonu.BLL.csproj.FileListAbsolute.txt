@@ -1,0 +1,11 @@
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Release\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Release\KutuphaneOtomasyonu.BLL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Release\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Release\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Release\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\bin\Release\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Release\KutuphaneOtomasyonu.BLL.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Release\KutuphaneOtomasyonu.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Release\KutuphaneOtomasyonu.BLL.csproj.CopyComplete
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Release\KutuphaneOtomasyonu.BLL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.BLL\obj\Release\KutuphaneOtomasyonu.BLL.pdb

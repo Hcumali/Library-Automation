@@ -1,0 +1,9 @@
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\bin\Release\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\bin\Release\KutuphaneOtomasyonu.DAL.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\bin\Release\KutuphaneOtomasyonu.Entity.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\bin\Release\KutuphaneOtomasyonu.Entity.pdb
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\obj\Release\KutuphaneOtomasyonu.DAL.csprojAssemblyReference.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\obj\Release\KutuphaneOtomasyonu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\obj\Release\KutuphaneOtomasyonu.DAL.csproj.CopyComplete
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\obj\Release\KutuphaneOtomasyonu.DAL.dll
+C:\Users\dahi_\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu.DAL\obj\Release\KutuphaneOtomasyonu.DAL.pdb
